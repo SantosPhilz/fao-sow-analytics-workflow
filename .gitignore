@@ -1,0 +1,10 @@
+# Local R session state
+.Rhistory
+.RData
+.Rproj.user/
+
+# Keep unreviewed source data and generated outputs out of commits by default.
+/fao_sow_analytics_workflow/data/*
+!/fao_sow_analytics_workflow/data/README.md
+/fao_sow_analytics_workflow/outputs/*
+!/fao_sow_analytics_workflow/outputs/README.md
